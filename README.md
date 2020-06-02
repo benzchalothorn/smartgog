@@ -1,0 +1,2 @@
+# smartgog
+GitHub Pages
